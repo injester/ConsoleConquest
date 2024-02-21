@@ -70,7 +70,7 @@ async function fight() {
       console.log("║                    VICTORY!                    ║");
       console.log("╠════════════════════════════════════════════════╣");
       console.log("║   🎉 You defeated the monster!                 ║");
-      console.log("║   🏆 You gained 100 points!                    ║");
+      console.log("║   🏆 You gained 3 points!                    ║");
       console.log("║                                                  ║");
       console.log(`║   ❤️ Your HP: ${hp}                              ║`);
       console.log(`║   💰 Points: ${points}                              ║`);
